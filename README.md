@@ -3,7 +3,7 @@
 ## 
 :computer: I work part-time helping students' learning process in a full-stack development course <br>
 :speech_balloon: and as a full-time customer support assistent / fraud  department <br><br>
-🌱  I’m a **Computer Systems Analyst** in progress (started this year) <br>
+🌱  I’m a **Computer Systems Analyst** in progress (still graduating) <br>
 🤔  Here you will find some small projects I'm working on to test my abilities<br>
 
 ##
